@@ -1,0 +1,11 @@
+h1 {
+  font-size: 1.8em;
+}
+
+figcaption, time {
+  color: gray;
+}
+
+a {
+  color: #3b94d9;
+}

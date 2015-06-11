@@ -1,0 +1,25 @@
+body {
+  font-face: Garamond;
+  line-height: 125%;
+  width: 520px;
+  margin-left: auto; margin-right: auto;
+}
+
+p, figcaption {
+  width: 32em;
+}
+
+time {
+  float: left;
+  padding: 0 200px 0 0;
+  margin: 0 0 10px 0;
+}
+
+h1 {
+  width: 19em;
+  line-height: 120%;
+}
+
+img {
+  width: 510px;
+}
